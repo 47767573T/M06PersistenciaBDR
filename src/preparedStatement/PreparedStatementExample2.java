@@ -1,4 +1,4 @@
-//STEP 1. Import required packages
+package preparedStatement;//STEP 1. Import required packages
 import java.sql.*;
 
 public class PreparedStatementExample2 {
